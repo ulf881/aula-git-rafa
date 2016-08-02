@@ -1,3 +1,4 @@
-# Meu projeto de git
-
-Criei um projeto de git, e ele é massa.
+Rafael Jose de Souza
+Graduando de Física
+Professor na Influx
+Senhor dos Xablau :v
